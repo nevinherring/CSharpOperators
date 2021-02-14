@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/bin/Debug/net5.0/Operators.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/bin/Debug/net5.0/Operators.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/bin/Debug/net5.0/Operators.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/bin/Debug/net5.0/Operators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/bin/Debug/net5.0/ref/Operators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/bin/Debug/net5.0/Operators.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/ref/Operators.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/Operators/obj/Debug/net5.0/Operators.genruntimeconfig.cache
